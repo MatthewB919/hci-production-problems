@@ -7,3 +7,18 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* stylelint-enable */
 
 /* Begin site styles below */
+html {
+  font-size: 1.2em;
+}
+
+h1 {
+  font-size: 1.5em
+}
+
+#roboto, #roboto-quote {
+  font-Family: "Roboto", sans-serif;
+}
+
+#Catamaran, #Catamaran-quote{
+  font-falily: "Catamaran", sans-serif;
+}
