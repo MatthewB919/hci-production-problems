@@ -15,20 +15,20 @@ you choose. Use the Preview tab at the bottom of the palette preview.
 
 1. A **monochromatic color palette** for a site introducing a new console gaming platform
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL:https://paletton.com/#uid=12P0u0kllllaFw0g0qFqFg0w0aF
+Your Rationale: I chose this color palette because green represents new beginnings as well as green being one of the major console's brand color that being Xbox.
 
 2. An **adjacent color palette** for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL:https://paletton.com/#uid=50z0v0k-TvaltD-roA4CloLHwjj
+Your Rationale: I chose these colors because as well as being adjacent colors these colors are associated with the colors of common flower colors.
 
 3. A **triadic color palette** for styling the login page for an app for kids to learn the alphabet
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL:https://paletton.com/#uid=31T0S0kMZEEohM1voMkNvrTO-lD
+Your Rationale: I went with this color palette because kids can easily identify that the letters are different from each other in bright bold letters. I also chose Red, Blue, and Yellow as when I was young in school learning about colors the most emphasized colors were red, yellow, and blue.
 
 4. A **custom color palette** for advertising a course on cybersecurity
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL:https://paletton.com/#uid=1020S0k0HsPkw00++DJ++ymkh0c
+Your Rationale: With this my reasoning was very simple, I thought that black and white are necessary for simple bold neutral colors towards the nature of cybersecurity and red to get people energized to want to take the course.
