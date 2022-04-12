@@ -16,18 +16,18 @@ for your first (and second) round of usability testing.
 
 * URLs for the usability checklists you’ve found:
 
-1.
-2.
+1.https://www.sitepoint.com/web-development-checklists/
+2.https://www.socialmediatoday.com/news/is-your-website-user-friendly-a-25-point-website-usability-checklist-info/528678/
 
 * Your team’s condensed ten-item, must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Covering W3 1.0 checklist.
+2. Good text to background contrast.
+3. Readable fonts.
+4. Easy main page navigation.
+5. Meaningful URL's.
+6. Reasonable and simple links.
+7. Readable pages.
+8. Emphasis used sparingly.
+9. Images have alt-tags.
+10. No ads or obtrusive ads.
